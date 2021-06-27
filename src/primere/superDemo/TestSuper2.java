@@ -12,7 +12,7 @@ class Animal {
         System.out.println("Animal is created");
     }
 }
-class Dogs extends Animal {
+class Dogs extends Animals {
     Dogs() {
         super();
         System.out.println("dog is created");

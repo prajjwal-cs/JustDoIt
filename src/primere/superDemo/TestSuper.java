@@ -10,7 +10,7 @@ package primere.superDemo;
 class Animals {
     String color = "White";
 }
-class Dog extends Animals {
+class Dog extends Animals{
     String color = "Black";
     void printColor() {
         System.out.println(color);
